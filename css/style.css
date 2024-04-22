@@ -400,7 +400,7 @@ min-height: 250px;
 /*grid-area: B;*/
 grid-column: 4 span;
 grid-row: 2 span;
-background: url(/images/Frame-row-span.webp);
+background: url(./images/Frame-row-span.webp);
 }
 
 .steps__slide-3 {
@@ -413,7 +413,7 @@ display: flex;
 .steps__slide-4 {
 /*grid-area: D;*/
 grid-column: 4 span;
-background: url(/images/Frame-1-step.webp);
+background: url(./images/Frame-1-step.webp);
 }
 .steps__slide-4 p {
 max-width: 302px;
@@ -421,7 +421,7 @@ max-width: 302px;
 .steps__slide-5 {
 /*grid-area: F;*/
 grid-column: 8 span;
-background: url(/images/Frame-column-span.webp);
+background: url(./images/Frame-column-span.webp);
 }
 
 .steps__slide-5>div>p {
@@ -447,7 +447,7 @@ max-width: 446px;
 }
 
 .steps__card-item {
-	background: url(/images/Frame-1-step.webp);
+	background: url(./images/Frame-1-step.webp);
 	padding: 20px;
 min-height: 112px;
 	display: flex;
