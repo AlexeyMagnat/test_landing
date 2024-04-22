@@ -32,7 +32,7 @@
 
 	.header {
 		min-height: 812px;
-		background: url(/images/header-phone.webp) no-repeat center;
+		background: url(./images/header-phone.webp) no-repeat center;
 		background-size: cover;
 	}
 
@@ -231,7 +231,7 @@
 .steps__slide-5 {
 height: 300px;
 padding-top: 60px;
-background: url(/images/Frame-row-span.webp);
+background: url(./images/Frame-row-span.webp);
 flex-direction: column;
 gap: 0px;
 }
